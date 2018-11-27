@@ -2,7 +2,7 @@
 
 # Propósito
 
-Desenvolver um Sistema de Informação da Locadora de Vídeo Imperial, que apoio as tomdas de decisões referentes aos negócios, com as várias funcionalidades dentre elas registar devolução, empréstimo, reserva de  filmes, descontos para lançamentos, cadastro de clientes, dependentes, descontos para lançamentos, além de consultas ao acervo.
+Desenvolver um Sistema de Informação para o cliente Locadora de Vídeo Imperial, que apoie as tomadas de decisões referentes aos negócios com as várias funcionalidades dentre elas: registrar a devolução, empréstimo, reserva de  filmes, cadastro de clientes, dependentes, descontos para lançamentos, além de consultas ao seu acervo.
 
 # Membros
 
