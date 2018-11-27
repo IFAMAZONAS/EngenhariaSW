@@ -1,4 +1,8 @@
 Trabalhando em equipe com o Git e Github
 https://www.youtube.com/watch?v=yOrkq7VZKT8
+
 Desenvolvimento de software em equipe utilizando Github
 https://www.youtube.com/watch?v=Jkp1kUrflp8&t=1232s
+
+Trabalhando com o Github no Projeto
+https://www.youtube.com/watch?v=BBbPw6_GJWg
