@@ -6,3 +6,8 @@ https://www.youtube.com/watch?v=Jkp1kUrflp8&t=1232s
 
 Trabalhando com o Github no Projeto
 https://www.youtube.com/watch?v=BBbPw6_GJWg
+
+--Formatos de Projetos no GitHub
+https://github.com/costalopes71/FaberCanetas
+
+https://github.com/thiago11122/ProjetoBanco
