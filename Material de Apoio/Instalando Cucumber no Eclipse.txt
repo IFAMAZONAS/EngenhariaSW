@@ -1,0 +1,45 @@
+Instalando cucumber no eclipse
+---Help - Eclipse  Market Place - 
+
+
+
+Vídeo de Apoio
+https://www.youtube.com/watch?v=kJXpnsyHC7k
+
+Sites de apoio
+http://www.automationtestinghub.com/download-cucumber-and-selenium-jars/
+
+https://mvnrepository.com/search?q=cucumber&p=1
+(Pegar sempre o mais atual)
+
+1- Depois do download do jar, crie uma pasta chamada cucumber, copiar os jars no repositório do Maven dentro da pasta criada anteriormente,
+Exemplo: C:\Users\<nome_usuário_do_pc>\.m2\repository\cucumber.
+
+2- Editar o arqiuvo pom.xml
+
+2.1 Adiconando as sequintes, fazendo as alterações necessárias da versão.
+
+
+	<dependency>
+    	<groupId>io.cucumber</groupId>
+    	<artifactId>cucumber-junit</artifactId>
+    	<version>4.2.0</version>
+    	<scope>test</scope>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-core -->
+	<dependency>
+    	<groupId>io.cucumber</groupId>
+    	<artifactId>cucumber-core</artifactId>
+    	<version>4.2.0</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
+	<dependency>
+   		 <groupId>io.cucumber</groupId>
+    	<artifactId>cucumber-java</artifactId>
+    	<version>4.2.0</version>
+	</dependency>
+
+3-verificar se está tudo certo, clicando em cima do projeto dar RunAs -Maven Test.
+
