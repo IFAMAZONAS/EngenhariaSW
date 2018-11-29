@@ -4,10 +4,15 @@ Instalando cucumber no eclipse
 
 
 Vídeo de Apoio
+
+https://www.youtube.com/watch?v=En1lK5ecE3E
+
 https://www.youtube.com/watch?v=kJXpnsyHC7k
 
 Sites de apoio
 http://www.automationtestinghub.com/download-cucumber-and-selenium-jars/
+
+https://www.devmedia.com.br/desenvolvimento-orientado-a-comportamento-bdd-com-cucumber/33547
 
 https://mvnrepository.com/search?q=cucumber&p=1
 (Pegar sempre o mais atual)
