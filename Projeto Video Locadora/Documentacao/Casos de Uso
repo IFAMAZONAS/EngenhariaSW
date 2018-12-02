@@ -1,0 +1,19 @@
+
+
+USE CASE - ESCOPO DO SISTEMA
+
+O sistema de informação para a vídeo locadora Imperial tem como objetivo a gerencia das atividades de atendimento aos seus clientes, e deve dispor das seguintes funcionalidades: cadastro de clientes e dependentes, filmes, fornecedores, registrar empréstimo, devolução, reservas, pagamentos, descontos e consultas.
+ 
+Cadastrar Clientes: Todos os clientes serão cadastrados no sistema para que possam realizar as operações pertinentes. Nesta operação são coletados dados pessoais tais como (num_inscrição, CPF, nome, endereço, e-mail, local de trabalho, telefone residencial, telefone comercial, telefone celular, sexo, data de nascimento).
+
+Cadastrar Dependentes: Os dependentes dos clientes poderão locar os filmes desde de quer esteja cadastrado no sistema, contendo os seguintes dados (nome, e-mail, sexo e data de nascimento) cada cliente pode cadastrar até 3 dependentes.
+
+Cadastrar Filmes: No cadastro dos filmes (mídias) devem constar as seguintes informações (título original, título em português, países, ano, direção, elenco, sinopse, duração e gênero), gêneros (ação, animação, aventura, comédia, documentário, drama, ficção, guerra, musical, policial, romance, suspense e terror) tipo de mídias (DVD, VHS, Blu-Ray, HD-DVD) classificados em filmes de catálogo e lançamentos.
+
+Cadastrar Fornecedores: No cadastro dos fornecedores desse-se saber (razão social, CNPJ, endereço, telefone e pessoa de contato) sendo necessário a informação de um item (data aquisição, número de série (código de barras) e tipo de mídia).
+
+Cadastrar Reservas: As reservas realizadas pelos clientes devem constar as seguintes informações (data e hora da reserva, tipo de mídia) quando um filme é devolvido o cliente é avisado por e-mail, a reserva tem um prazo de 24 horas para serem retiradas, caso contrário expira-se o prazo.
+
+Cadastrar Locação/Devolução: As informações necessárias para a locação de um filme são (num_inscrição do cliente, data da locação, data da devolução, valor (DVD, VHS, HD-DVD R$ 5,00, Blu-ray R$7,50) e forma de pagamento (dinheiro, cheque, cartão) sendo que para pagamento em cheque desejar-se saber (banco, agência, conta e número do cheque), o filme entregue fora do prazo, cobra-se uma multa (multa=número de dias multiplicado pelo valor da locação, M=n*vl). Caso a locação do item não tenha sido paga no ato da locação, terá de ser paga obrigatoriamente na devolução. 
+
+Visualizar Relatórios: O sistema deve disponibilizar consultas ao acervo via Web, o cliente pode consultar os dados de um filme específico, pelo título (ou parte dele) original ou em português, por gênero, tipo de mídia, ator, diretor, nacionalidade e lançamentos bem como combinações dessas informações. 
