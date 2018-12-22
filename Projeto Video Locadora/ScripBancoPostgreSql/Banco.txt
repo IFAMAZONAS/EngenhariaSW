@@ -1,4 +1,4 @@
-
+---
 CREATE SEQUENCE public.dependente_seq
   INCREMENT 1
   MINVALUE 1
