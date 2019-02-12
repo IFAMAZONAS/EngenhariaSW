@@ -31,3 +31,8 @@ Equipe de Trabalho
       <td>Marcos Rogério</td><td>mroa@cin.ufpe.br</td><td>mrogerio18</td>
    </tr>
 </table>
+
+
+Documentação do Projeto, acesse: <a href="https://github.com/IFAMAZONAS/EngenhariaSW/wiki"> Documentação Locadora Imperial </a>
+<br>
+Acesso ao Sistema : <a href="http://sistema-locadora.herokuapp.com/">Sistema Locadora Imperial </a>
