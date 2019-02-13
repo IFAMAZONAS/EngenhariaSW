@@ -25,7 +25,7 @@ Equipe de Trabalho
       <td>Raimundo Fagner</td><td>rfc2@cin.ufpe.br</td><td>ifamfagner</td>
    </tr>
    <tr>
-      <td>Leonardo Damim</td><td>ld@cin.ufpe.br</td><td>LDamimn</td>
+      <td>Leonardo Damin</td><td>ld@cin.ufpe.br</td><td>LDamin</td>
    </tr>
   <tr>
       <td>Marcos Rogério</td><td>mroa@cin.ufpe.br</td><td>mrogerio18</td>
