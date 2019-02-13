@@ -36,3 +36,6 @@ Equipe de Trabalho
 Documentação do Projeto, acesse: <a href="https://github.com/IFAMAZONAS/EngenhariaSW/wiki"> Documentação Locadora Imperial </a>
 <br>
 Acesso ao Sistema : <a href="http://sistema-locadora.herokuapp.com/">Sistema Locadora Imperial </a>
+<br>
+<br>
+<a href="https://github.com/IFAMAZONAS/EngenhariaSW/wiki/Ajuda">Ajuda</a>
